@@ -1,5 +1,6 @@
 # Book-Sales-Analysis-(SQL)
-# 📚 Book Sales Analysis with SQL  ## <a href="https://github.com/Tamang-Ajay/Book-Sales-Analysis-SQL-Project/blob/main/Book%20Sales%20SQL%20Project_compressed.pdf">View Project</a>
+# 📚 Book Sales Analysis with SQL  
+<a href="https://github.com/Tamang-Ajay/Book-Sales-Analysis-SQL-Project/blob/main/Book%20Sales%20SQL%20Project_compressed.pdf">View Project</a>
 This project contains a full SQL-based analysis of books sales data, including:
 - Database schema design  
 - SQL queries for data analysis  
